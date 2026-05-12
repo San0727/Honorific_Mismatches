@@ -1,6 +1,6 @@
 # Honoring the Rules? A Targeted Syntactic Evaluation of Honorific Mismatches in Korean LLMs
 
-This repository contains the dataset and evaluation code for the paper **"Honoring the Rules? A Targeted Syntactic Evaluation of Honorific Mismatches in Korean LLMs"** (Anonymous ACL submission).
+This repository contains the dataset and evaluation code for the paper **"Honoring the Rules? A Targeted Syntactic Evaluation of Honorific Mismatches in Korean LLMs"**.
 
 ---
 
