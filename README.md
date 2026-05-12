@@ -99,24 +99,6 @@ python src/evaluate.py --experiment main --model EleutherAI/polyglot-ko-3.8b
 
 ---
 
-## Results Summary
-
-### Baseline (Case Marking)
-
-All five models successfully distinguished the grammatical NOM+ACC condition from all three ungrammatical conditions under both metrics (p < .001).
-
-### Main (Honorific Agreement)
-
-| Comparison | SLOR | Mean Surprisal |
-|---|---|---|
-| HON+HON vs. mismatches | Native-like across all 5 models | Native-like for Kanana + all 3 Polyglot-Ko models |
-| PLAIN+PLAIN vs. mismatches | Non-native-like for most models | Native-like for all 3 Polyglot-Ko models |
-| HON+PLAIN vs. PLAIN+HON (within-mismatch) | Non-native-like across all 5 models* | Native-like for all 3 Polyglot-Ko models |
-
-> *The reversal observed under SLOR for the within-mismatch comparison is attributed to the relative rarity of honorific verbal forms in the Korean Wikipedia corpus, which artificially inflates SLOR scores for sentences containing honorific verbs.
-
----
-
 ## Citation
 
 ```bibtex
