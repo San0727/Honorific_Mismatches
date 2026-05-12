@@ -123,16 +123,9 @@ All five models successfully distinguished the grammatical NOM+ACC condition fro
 @article{anonymous2025honorific,
   title   = {Honoring the Rules? A Targeted Syntactic Evaluation of Honorific Mismatches in Korean LLMs},
   author  = {Anonymous},
-  journal = {ACL submission},
-  year    = {2025}
+  journal = {TBD},
+  year    = {2026}
 }
 ```
 
 ---
-
-## References
-
-- Song et al. (2019). An empirical study of honorific mismatches in Korean. *Language Sciences*, 75, 47–71.
-- Noh et al. (2024). How language models understand honorific mismatches in Korean. *Language Research*, 60(3), 303–322.
-- Lau et al. (2017). Grammaticality, acceptability, and probability. *Cognitive Science*, 41(5), 1202–1241.
-- Ko et al. (2023). A technical report for Polyglot-Ko. arXiv:2306.02254.
